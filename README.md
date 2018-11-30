@@ -1,5 +1,5 @@
 # IF1bis
-Windows GUI for Interface 1 Bis LDC32
+Windows GUI for ZX Spectrum Interface 1 Bis LDC32
 
 LDC32_GUI.exe is a complement to LDC32.exe written by Dan Antohi for Interface 1 Bis. 
 
