@@ -3,7 +3,7 @@ Windows GUI for Interface 1 Bis LDC32
 
 LDC32_GUI.exe is a complement to LDC32.exe written by Dan Antohi for Interface 1 Bis. 
 
-I initiated this project due to that I had a hard time remebering the command line options 
+I initiated this project because I had a hard time remembering the command line options 
 for the variuos SD card operations that can be done using LDC32.exe.
 
 The executable *must* be placed in the same folder as LDC32.exe on your computer.
