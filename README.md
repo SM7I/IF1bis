@@ -15,10 +15,10 @@ The dump folder is used when dumping (SD -> Image) the SD card contents to your 
 Select your SD card from the list of drives shown. Normally the SD card is S: since that´s set 
 when installing Dan Antohis software.
 
-For initializing the SD card there´s no need for entering any LDC number, nor for the
-dumping if SD card contents.
+For initializing the SD card there´s no need for entering any LD number, nor for the
+dumping of SD card contents.
 
-We must however enter an LDC number when using the Folder -> SD operation.
+We must however enter an LD number when using the Folder -> SD operation.
 
 For more in depth documentation about LDC32.exe and it´s functions see Dan Antohis website:
 
