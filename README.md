@@ -4,7 +4,7 @@ Windows GUI for ZX Spectrum Interface 1 Bis LDC32
 LDC32_GUI.exe is a complement to LDC32.exe written by Dan Antohi for Interface 1 Bis. 
 
 I initiated this project because I had a hard time remembering the command line options 
-for the variuos SD card operations that can be done using LDC32.exe.
+for the various SD card operations that can be done using LDC32.exe.
 
 The executable *must* be placed in the same folder as LDC32.exe on your computer.
 When it first launches it will create two directories, init and dump
